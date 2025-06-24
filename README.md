@@ -1,3 +1,5 @@
+# Overview
+
 This study explores the use of machine learning to predict pizza topping preferences based on 
 indirect personal interest questions. A dataset of 19 student responses was collected, including 
 their preferences for chess pieces, pen types, favorite sports, belief in ghosts, and favorite games. 
